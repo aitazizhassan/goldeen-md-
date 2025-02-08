@@ -6,11 +6,11 @@
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "Add Golden Queen Session ID",
+      "description": "Golden-Queen-MD-0g4FjIiR#ta7jQEmbxm7LbyqAw-GaqeqHtj7rwMFjs68n4dQyDywftrc",
       "required": true
     },
     "MONGODB": {
-      "description": "Enter Mongodb Url",
+      "description": "mongodb+srv://TanTan:TanTan@cluster0.fhjwc.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     }
   },
